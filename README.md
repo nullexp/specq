@@ -1,3 +1,3 @@
 # specq
-Specification Pattern to Raw SQL
+Specification Pattern to Raw SQL,
 Under Development!
